@@ -1,4 +1,4 @@
-# Code for article 'How to Friends as Influenced People'
+# Code for article 'How to Find Friends as Influenced People'
 # Published on www.significancemagazine.com June 2016
 # Nathan Cunningham
 # June 2016
